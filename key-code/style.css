@@ -29,7 +29,7 @@ body{
     font-size: 20px;
     font-weight: bold;
     padding: 20px;
-    color: aliceblue;
+    color: rgb(25, 27, 28);
     margin: 2.5rem;
     min-width: 150px;
     background: rgba(0, 255, 255, 0.5);
@@ -53,6 +53,7 @@ body{
 }
 .container:hover{
     background: rgba(255, 255, 255, 0.45);
+    
 }
 .key-container:hover{
     background: rgba(255, 255, 255, 0.9);
