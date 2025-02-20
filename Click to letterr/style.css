@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    user-select: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right,#1a237e,#ff1744);
+    overflow: hidden;
+}
+
+div{
+    text-align: center;
+    font-size: 15rem;
+    cursor: pointer;
+    color: aliceblue;
+    font-weight: bold;
+}
+#M , #A , #N , #G , #O , #MANGO{
+    display: none;
+}
+
+#M{
+    display: block;
+}
